@@ -1,0 +1,19 @@
+/* style.css */
+body {
+	padding: 0;
+	margin: 0;
+	background-color: rgb(200, 150, 100);
+}
+
+
+div.fixed{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 300px;
+    border: 3px solid #ffffff;
+}
+
+div.heading{
+	text-align: center;
+}
